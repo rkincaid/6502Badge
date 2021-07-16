@@ -1,0 +1,2 @@
+*.bas	-text diff
+*.BAS	-test diff
